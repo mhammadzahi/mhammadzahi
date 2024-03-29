@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohammed Zahi
-- 🐍 I’m Python, Django, Flask Web Developer
-- 👀 I'm interested in Data Science
-- 🌱 Currently I’m learning Data Science
-- 💞️ I’m looking to collaborate on some Data Science projects
+- 🐍 I’m Python, Django, Flask, Go, Gin Web Developer
+- 👀 I'm interested in AI and Blockchain
+- 🌱 Currently I’m learning Golang and Gin
+- 💞️ I’m looking to collaborate on some Web Apps with Gin web framework projects
 - 📫 reach me on Telegram https://t.me/d5une
 
 <!---
