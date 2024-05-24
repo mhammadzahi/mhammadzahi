@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Zahi
-- 🐍 I’m Python, Django, Flask, Go, Gin Web Developer
+- 🐍 I’m Python, Django, Flask, JavaScript, Express Js Web Developer
 - 👀 I'm interested in AI and Blockchain
 - 🌱 Currently I’m learning Golang and Gin
 - 💞️ I’m looking to collaborate on some Web Apps with Gin web framework projects
